@@ -1,6 +1,6 @@
-Ветки master и demo отличаются лишь содержимым файла README. 
+Branches "master" and "demo" hasn't any difference besides README file. 
 
-9 коммитов:
+There are 10 commits:
 
 init
 heat added
@@ -11,3 +11,4 @@ fix readme
 Merge branches 'boots' and 'buttons' into boots_buttons
 Merge branches 'hat' and 'boots_buttons' 
 something
+there is english support
